@@ -91,7 +91,7 @@
     "ts-invariant": "^0.10.3",
     "uglifyjs-webpack-plugin": "^2.2.0",
     "unfetch": "^4.2.0",
-    "webpack": "^4.46.0",
+    "webpack": "^5.1.1",
     "winston": "^3.10.0",
     "workerpool": "^6.4.0"
   },
