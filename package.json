@@ -47,7 +47,7 @@
     "ipchecker": "^0.0.2",
     "is-empty-object": "^1.1.1",
     "jsdom": "^16.7.0",
-    "koa": "^2.14.2",
+    "koa": "^3.0.1",
     "koa-basic-auth": "^4.0.0",
     "koa-better-ratelimit": "^2.1.2",
     "koa-bodyparser": "^4.4.1",
